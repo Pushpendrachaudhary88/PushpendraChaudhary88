@@ -5,13 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pushpendrachaudhary88&label=Profile%20views&color=0e75b6&style=flat" alt="pushpendrachaudhary88" /> </p>
 
-- 🌱 I’m currently learning **HTML,CSS,JAVASCRIPT,BOOTSTRAP.**
+- 🌱 I’m currently learning **HTML,CSS,JAVASCRIPT,BOOTSTRAP,REACT JS.**
 
 - 🤝 Backend-Framework **SPRING-BOOTS**
 
 - 👨‍💻 All of my projects are available at [PushpendraChaudhary88](PushpendraChaudhary88)
 
-- 💬 Ask me about **JAVA, DSA, SQL,MYSQL,JPA-HIBERNATE,GIT,GITHUB.**
+- 💬 Ask me about **JAVA, DSA, SQL,MYSQL,JPA-HIBERNATE,GIT,GITHUB, HTML5, CSS, JAVASCRIPT, REACT-JS.**
 
 - 📫 How to reach me **pushpendrac559@gmail.com**
 
